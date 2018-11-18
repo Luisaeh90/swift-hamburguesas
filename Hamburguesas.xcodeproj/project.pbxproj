@@ -12,7 +12,7 @@
 		822C1D7B21A0F6830071CE53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 822C1D7921A0F6830071CE53 /* Main.storyboard */; };
 		822C1D7D21A0F6850071CE53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 822C1D7C21A0F6850071CE53 /* Assets.xcassets */; };
 		822C1D8021A0F6850071CE53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 822C1D7E21A0F6850071CE53 /* LaunchScreen.storyboard */; };
-		822C1D8821A0F6A20071CE53 /* Dato.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822C1D8721A0F6A20071CE53 /* Dato.swift */; };
+		822C1D8821A0F6A20071CE53 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822C1D8721A0F6A20071CE53 /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		822C1D7C21A0F6850071CE53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		822C1D7F21A0F6850071CE53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		822C1D8121A0F6850071CE53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		822C1D8721A0F6A20071CE53 /* Dato.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dato.swift; sourceTree = "<group>"; };
+		822C1D8721A0F6A20071CE53 /* Datos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		822C1D8921A0F6B10071CE53 /* Estructuras */ = {
 			isa = PBXGroup;
 			children = (
-				822C1D8721A0F6A20071CE53 /* Dato.swift */,
+				822C1D8721A0F6A20071CE53 /* Datos.swift */,
 			);
 			path = Estructuras;
 			sourceTree = "<group>";
@@ -147,7 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				822C1D7821A0F6830071CE53 /* ViewController.swift in Sources */,
-				822C1D8821A0F6A20071CE53 /* Dato.swift in Sources */,
+				822C1D8821A0F6A20071CE53 /* Datos.swift in Sources */,
 				822C1D7621A0F6830071CE53 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
